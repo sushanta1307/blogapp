@@ -1,0 +1,19 @@
+.login{
+    min-height: calc(100vh - 50px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(
+        rgba(255, 255, 255, 0.5),
+        rgba(255, 255, 255, 0.5)
+      ),
+      url("../../public/authentication_background.jpg");
+    background-size: cover;
+    
+}
+.add-blog{
+  width: 10%;
+  margin: auto;
+  cursor: pointer
+}

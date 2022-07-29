@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.69ca3d69.css",
+    "main.js": "/static/js/main.a45f1095.js",
+    "static/media/authentication_background.jpg": "/static/media/authentication_background.82aff82e0146e4853ab7.jpg",
+    "index.html": "/index.html",
+    "main.69ca3d69.css.map": "/static/css/main.69ca3d69.css.map",
+    "main.a45f1095.js.map": "/static/js/main.a45f1095.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69ca3d69.css",
+    "static/js/main.a45f1095.js"
+  ]
+}
